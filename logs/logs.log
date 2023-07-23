@@ -1,0 +1,6 @@
+2023-07-22 23:28:34 - INFO - Added job Job synchronous_function with status Scheduled to the scheduler.
+2023-07-22 23:28:34 - INFO - Added job Job asynchronous_function with status Scheduled to the scheduler.
+2023-07-22 23:28:34 - INFO - Job scheduler started.
+2023-07-22 23:28:34 - INFO - Executing job Job asynchronous_function with status Scheduled with params ['Hello, Async!'] and {}
+2023-07-22 23:28:42 - ERROR - Keyboard interrupt received. Stopping the program...
+2023-07-22 23:28:42 - INFO - Job scheduler stopped.
